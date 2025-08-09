@@ -207,10 +207,3 @@ En cas de problème :
 4. Libérer le port 5000
 
 ---
-
-**Développé pour la surveillance et la prédiction des ressources en eau au Maroc 🇲🇦**
-
-```
-
-Si tu souhaites, je peux aussi te préparer un fichier `.md` prêt à l'emploi.
-```
