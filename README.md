@@ -1,6 +1,4 @@
-Voici tout ton contenu formaté intégralement en Markdown :
 
-````markdown
 # 🌊 Tableau de Bord - Surveillance des Ressources en Eau au Maroc
 
 ## 📋 Description du Projet
